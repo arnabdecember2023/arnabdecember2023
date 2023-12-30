@@ -1,4 +1,4 @@
-- Hi, I’m Arnab Narayan Bose. I am a 12 year old
+- Hi, I’m Arnab Narayan Bose. I am a 12 year old.
 - I’m interested in programming.
 - I’m currently learning python and I hope to learn other programming languages soon.
 
