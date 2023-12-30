@@ -1,4 +1,4 @@
-- Hi, I’m Arnab Narayan Bose. I am an Indian 12 year old boy. I live in Kolkata, West Bengal.
+- Hi, I’m Arnab Narayan Bose. 
 - I’m interested in programming.
 - I’m currently learning python and I hope to learn other programming languages soon.
 
